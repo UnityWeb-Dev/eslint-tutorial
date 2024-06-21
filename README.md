@@ -73,9 +73,3 @@ Integrate with IDE: Install ESLint plugins for your IDE/editor to get real-time 
 Congratulations! You've successfully set up ESLint in your project. This tutorial covered the basics of installation, configuration, and usage of ESLint. Feel free to explore more ESLint configurations and rules to tailor it further to your project's needs.
 
 Feel free to expand this README.md with additional sections, examples, or troubleshooting tips as your tutorial progresses.
-
-This README.md provides a structured approach to introducing ESLint, guiding through installation, configuration, usage, and a brief conclusion. Customize it further with specific details, examples, and additional sections as needed for your tutorial.
-
-
-
-
