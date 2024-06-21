@@ -17,6 +17,6 @@
   "license": "MIT",
   "devDependencies": {
     "eslint": "^8.10.0",
-    "eslint-plugin-{plugin-name}": "^4.0.0" // Replace {plugin-name} with actual plugin name
+    "eslint-plugin-{plugin-name}": "^4.0.0"
   }
 }
