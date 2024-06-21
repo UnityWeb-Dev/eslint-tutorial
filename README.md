@@ -1,3 +1,5 @@
+![State](https://img.shields.io/badge/State-On_Date-green)
+![Status](https://img.shields.io/badge/Status-Complete-green) 
 # EsLint Tutorial
 This repository is a startup for any javascript oriented projects of this organisation. 
 Welcome to the ESLint Startup Tutorial repository! This tutorial will guide you through setting up ESLint for JavaScript code linting in your projects.
