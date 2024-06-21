@@ -1,1 +1,22 @@
-
+{
+  "name": "eslint-startup-tutorial",
+  "version": "1.0.0",
+  "description": "A tutorial repository for setting up ESLint in JavaScript projects.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "keywords": [
+    "eslint",
+    "javascript",
+    "linting",
+    "tutorial"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "eslint-plugin-{plugin-name}": "^4.0.0" // Replace {plugin-name} with actual plugin name
+  }
+}
